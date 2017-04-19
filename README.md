@@ -1,4 +1,7 @@
-# test coverage for  [ndarray (v1.0.18)](https://github.com/mikolalysenko/ndarray)  [![npm package](https://img.shields.io/npm/v/npmtest-ndarray.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ndarray) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ndarray.svg)](https://travis-ci.org/npmtest/node-npmtest-ndarray)
+# npmtest-ndarray
+
+#### test coverage for  [ndarray (v1.0.18)](https://github.com/mikolalysenko/ndarray)  [![npm package](https://img.shields.io/npm/v/npmtest-ndarray.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ndarray) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ndarray.svg)](https://travis-ci.org/npmtest/node-npmtest-ndarray)
+
 #### Multidimensional Arrays
 
 [![NPM](https://nodei.co/npm/ndarray.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ndarray)
